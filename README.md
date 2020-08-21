@@ -3,7 +3,7 @@
 
 
 ## Project Overview
-In this project, I have analyzed a dataset and communicated my findings about it. I have used  Python libraries NumPy, Pandas, and Matplotlib and Seaborn to do the analysis.
+In this project, I have analyzed a dataset and communicated my findings about it. 
 
 You will need to install python and the following libraries mentioned below
 
